@@ -1,4 +1,4 @@
-# Starting Out
+# Welcome to NodeTunnel!
 
 This page explains how to start using **NodeTunnel** in a Godot project.
 
